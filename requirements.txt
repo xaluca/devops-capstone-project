@@ -27,3 +27,5 @@ pytest-codecov
 
 # Utilities
 httpie==3.2.1
+
+Flask-Talisman
